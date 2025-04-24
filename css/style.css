@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@700&display=swap');
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 210px;
+}
+
+#region {
+    padding-top: 30px;
+    font-size: 70px;
+}
+
+#buttonGenerate {
+    margin-top: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: none;
+    border-radius: 50px;
+    background-color: #7eb2f2;
+    color: white;
+    width: 500px;
+    height: 100px;
+  }
+
+.licensePlate {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 100px;
+    display: flex;
+    align-items: center;
+}
+
+#buttonGenerate {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 50px;
+}
+
+.rogueCheckerBlock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 30px;
+}
+
+#rogueChecker {
+    width: 16px;
+    height: 16px;
+}
+
+#firstLetter {
+    padding-top: 20px;
+    font-size: 80px;
+}
+
+#secondLetter {
+    padding-top: 20px;
+    font-size: 80px;
+}
+
+#thirdLetter {
+    padding-top: 20px;
+    font-size: 80px;
+}
+
+.mainText {
+    display: inline;
+    align-items: center;
+    position: absolute;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 50px;
+    margin-left: 50px;
+}
